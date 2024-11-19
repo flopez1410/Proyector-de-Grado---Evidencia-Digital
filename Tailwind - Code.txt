@@ -1,0 +1,335 @@
+<div className="CrearEmpYOEf2 w-96 h-96 relative bg-white">
+  <div className="Rectangle22 w-96 h-14 left-0 top-[744px] absolute bg-zinc-600" />
+  <div className="Rectangle23 w-96 h-14 left-0 top-0 absolute bg-zinc-300" />
+  <div className="Rectangle15 w-80 h-12 left-[53px] top-[182px] absolute bg-orange-300 rounded-2xl" />
+  <div className="Rectangle24 w-80 h-12 left-[53px] top-[182px] absolute bg-orange-300 rounded-2xl" />
+  <div className="CargarArchivoDigital w-80 h-9 left-[48px] top-[192px] absolute text-center text-black text-xl font-bold font-['B612']">Cargar Archivo Digital</div>
+  <div className="Rectangle46 w-80 h-12 left-[57px] top-[458px] absolute bg-orange-300 rounded-2xl" />
+  <div className="Rectangle47 w-80 h-12 left-[57px] top-[458px] absolute bg-orange-300 rounded-2xl" />
+  <div className="GenerarHash w-80 h-9 left-[52px] top-[468px] absolute text-center text-black text-xl font-bold font-['B612']">Generar HASH</div>
+  <div className="NombreDelCaso w-56 h-4 left-[113px] top-[94px] absolute text-center text-black text-base font-normal font-['B612']">Nombre del Caso</div>
+  <div className="DetalleDelCaso w-56 h-4 left-[113px] top-[138px] absolute text-center text-black text-base font-normal font-['B612']">Detalle del Caso</div>
+  <img className="Image6 w-8 h-8 left-[60px] top-[755px] absolute" src="https://via.placeholder.com/31x32" />
+  <div className="ContenedorDeEmbalaje w-56 h-4 left-[110px] top-[422px] absolute text-center text-black text-base font-normal font-['B612']">Contenedor de embalaje</div>
+  <div className="Finalizar w-52 h-6 left-[224px] top-[675px] absolute text-center text-white text-xl font-normal font-['B612']">Finalizar</div>
+  <div className="Cancelar w-52 h-6 left-[10px] top-[674px] absolute text-center text-white text-xl font-normal font-['B612']">Cancelar</div>
+  <div className="Delito w-56 h-4 left-[116px] top-[262px] absolute text-center text-black text-base font-normal font-['B612']">Delito</div>
+  <img className="Image29 w-8 h-7 left-[346px] top-[256px] absolute" src="https://via.placeholder.com/31x29" />
+  <div className="DespachoFiscal w-56 h-4 left-[116px] top-[306px] absolute text-center text-black text-base font-normal font-['B612']">Despacho Fiscal</div>
+  <img className="Image30 w-8 h-7 left-[346px] top-[300px] absolute" src="https://via.placeholder.com/31x29" />
+  <img className="Image31 w-8 h-7 left-[345px] top-[418px] absolute" src="https://via.placeholder.com/31x29" />
+  <div className="NombreFiscal w-56 h-4 left-[116px] top-[350px] absolute text-center text-black text-base font-normal font-['B612']">Nombre Fiscal</div>
+  <img className="Image27 w-11 h-9 left-[336px] top-[752px] absolute" src="https://via.placeholder.com/45x37" />
+  <img className="Image28 w-14 h-11 left-[181px] top-[748px] absolute" src="https://via.placeholder.com/55x45" />
+  <div className="HolaAlejandraSanchez w-64 h-7 left-[10px] top-[16px] absolute text-black text-xl font-bold font-['B612']">Hola Alejandra Sanchez</div>
+</div>
+<div className="NotificaciNDeImpresiNDeInformes w-96 h-96 relative bg-white">
+  <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+  <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+  <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+  <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+  <div className="Union w-80 h-48 left-[53px] top-[285px] absolute">
+    <img className="Union w-80 h-48 left-0 top-0 absolute" src="https://via.placeholder.com/349x188" />
+    <div className="UsuarioYContraseAIncorrecta w-56 h-6 left-[66px] top-[69px] absolute text-center text-neutral-50 text-xl font-normal font-['B612']">Informes creado con éxito!</div>
+  </div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[67px] top-[89px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+</div>
+<div className="ErrorDeDiligenciamientoFinal w-96 h-96 relative bg-white">
+  <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+  <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+  <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+  <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+  <div className="Union w-80 h-48 left-[53px] top-[285px] absolute">
+    <img className="Union w-80 h-48 left-0 top-0 absolute" src="https://via.placeholder.com/349x188" />
+    <div className="UsuarioYContraseAIncorrecta w-56 h-6 left-[66px] top-[69px] absolute text-center text-neutral-50 text-xl font-normal font-['B612']">Error en el sistema información no valida</div>
+  </div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[67px] top-[89px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+</div>
+<div className="Frame5 w-96 h-96 relative">
+  <div className="InicioDeSesiN w-96 h-96 left-0 top-0 absolute bg-Miscellaneous-Text Field - BG shadow border border-black">
+    <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+    <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+    <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+    <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+  </div>
+  <div className="Frame9 w-80 h-10 left-[47px] top-[477px] absolute justify-center items-center inline-flex">
+    <div className="Frame1 grow shrink basis-0 self-stretch justify-center items-center inline-flex" />
+  </div>
+  <div className="InicioDeSesiN w-52 h-4 left-[123px] top-[268px] absolute text-center text-black text-2xl font-bold font-['B612']">Inicio de Sesión</div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[67px] top-[89px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+  <div className="Frame8 w-56 h-4 left-[94px] top-[538px] absolute justify-center items-center inline-flex">
+    <div className="RecuperarContraseA w-56 h-4 text-center text-black text-base font-normal font-['B612']">Recuperar Contraseña</div>
+  </div>
+  <div className="Frame2 w-56 h-5 left-[97px] top-[586px] absolute justify-center items-center inline-flex">
+    <div className="CrearCuenta w-56 h-5 text-center text-black text-base font-bold font-['B612']">Crear Cuenta</div>
+  </div>
+  <div className="Usuario w-56 h-4 left-[112px] top-[321px] absolute text-center text-black text-xl font-normal font-['B612']">Usuario</div>
+  <div className="ContraseA w-56 h-4 left-[112px] top-[379px] absolute text-center text-black text-xl font-normal font-['B612']">Contraseña</div>
+  <div className="IniciarSesiN w-52 h-4 left-[108px] top-[486px] absolute text-center text-Miscellaneous-Text Field - BG text-xl font-normal font-['B612']">Iniciar Sesión</div>
+  <div className="Publico w-14 h-4 left-[112px] top-[429px] absolute text-black text-xs font-normal font-['B612']">Publico</div>
+  <div className="Privado w-16 h-4 left-[274px] top-[429px] absolute text-center text-black text-xs font-normal font-['B612']">Privado</div>
+  <div className="Ellipse4 w-5 h-5 left-[260px] top-[426px] absolute bg-zinc-300 rounded-full" />
+  <div className="Ellipse5 w-5 h-5 left-[87px] top-[426px] absolute bg-zinc-300 rounded-full" />
+</div>
+<div className="Frame6 w-96 h-96 relative">
+  <div className="Frame4 w-96 h-96 left-0 top-0 absolute flex-col justify-center items-center inline-flex">
+    <div className="ErrorDeUsuario w-96 h-96 relative bg-white flex-col justify-start items-start flex">
+      <div className="Frame3 w-80 h-48 justify-center items-center inline-flex">
+        <div className="Union w-80 h-48 relative flex-col justify-start items-start flex">
+          <img className="Union w-80 h-48" src="https://via.placeholder.com/349x188" />
+          <div className="UsuarioYContraseAIncorrecta w-56 h-6 text-center text-neutral-50 text-xl font-normal font-['B612']">Usuario y Contraseña Incorrecta</div>
+        </div>
+      </div>
+      <img className="Image3 w-44 h-16" src="https://via.placeholder.com/180x66" />
+      <img className="Image4 w-16 h-16" src="https://via.placeholder.com/69x70" />
+      <img className="Image1 w-16 h-16" src="https://via.placeholder.com/66x66" />
+      <img className="Image2 w-16 h-16" src="https://via.placeholder.com/72x68" />
+    </div>
+  </div>
+  <div className="Frame3 w-80 h-20 left-[67px] top-[96px] absolute justify-center items-center inline-flex">
+    <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+  </div>
+</div>
+<div className="Frame7 w-96 h-96 relative">
+  <div className="Registro w-96 h-96 left-[15px] top-0 absolute bg-white">
+    <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+    <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+    <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+    <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+    <div className="ContraseA w-56 h-4 left-[118px] top-[543px] absolute text-center text-black text-xl font-normal font-['B612']">Contraseña</div>
+    <div className="Rol w-56 h-4 left-[118px] top-[427px] absolute text-center text-black text-xl font-normal font-['B612']">Rol</div>
+    <img className="Image29 w-8 h-7 left-[351px] top-[329px] absolute" src="https://via.placeholder.com/31x29" />
+  </div>
+  <div className="Frame11 w-80 h-10 left-[80px] top-[618px] absolute justify-center items-center inline-flex" />
+  <div className="Registro w-52 h-4 left-0 top-[120px] absolute text-center text-black text-2xl font-bold font-['B612']">Registro</div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[87px] top-[26px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+  <div className="Nombre w-56 h-4 left-[142px] top-[167px] absolute text-center text-black text-xl font-normal font-['B612']">Nombre</div>
+  <div className="CrearFirmaDigital w-56 h-4 left-[152px] top-[482px] absolute text-center text-black text-xl font-normal font-['B612']">Crear Firma Digital</div>
+  <div className="Cedula w-56 h-6 left-[142px] top-[280px] absolute text-center text-black text-xl font-normal font-['B612']">Cedula</div>
+  <div className="EntidadJudicial w-56 h-6 left-[142px] top-[331px] absolute text-center text-black text-xl font-normal font-['B612']">Entidad Judicial</div>
+  <div className="Apellido w-56 h-4 left-[142px] top-[222px] absolute text-center text-black text-xl font-normal font-['B612']">Apellido</div>
+  <div className="CrearCuenta w-52 h-4 left-[141px] top-[626px] absolute text-center text-white text-xl font-normal font-['B612']">Crear Cuenta</div>
+  <div className="Publico w-14 h-4 left-[141px] top-[377px] absolute text-black text-xs font-normal font-['B612']">Publico</div>
+  <div className="Privado w-16 h-4 left-[303px] top-[377px] absolute text-center text-black text-xs font-normal font-['B612']">Privado</div>
+  <div className="Ellipse6 w-5 h-5 left-[289px] top-[374px] absolute bg-zinc-300 rounded-full" />
+  <div className="Ellipse7 w-5 h-5 left-[116px] top-[374px] absolute bg-zinc-300 rounded-full" />
+</div>
+<div className="Frame14 w-96 h-96 relative">
+  <div className="CrearUsuario w-96 h-96 left-0 top-0 absolute bg-white">
+    <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+    <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+    <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+    <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+    <div className="Frame13 w-80 h-48 left-[53px] top-[285px] absolute justify-center items-center inline-flex">
+      <div className="Frame21 grow shrink basis-0 self-stretch justify-center items-center inline-flex">
+        <div className="Union w-80 h-48 relative bg-white flex-col justify-start items-start flex">
+          <img className="Union w-80 h-48" src="https://via.placeholder.com/349x188" />
+          <div className="UsuarioYContraseAIncorrecta w-56 h-6 text-center text-neutral-50 text-xl font-normal font-['B612']">Error al crear usuario!<br/>Datos no encontrados en la BD</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div className="Frame13 w-80 h-20 left-[67px] top-[89px] absolute justify-center items-center inline-flex">
+    <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+  </div>
+</div>
+<div className="Frame16 w-96 h-96 relative">
+  <div className="RecuperarCuenta w-96 h-96 left-[4px] top-0 absolute bg-white">
+    <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+    <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+    <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+    <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+  </div>
+  <div className="RecuperarCuenta w-80 h-20 left-[71px] top-[89px] absolute text-center text-black text-3xl font-bold font-['B612']">Recuperar Cuenta</div>
+  <div className="Frame15 w-96 h-96 left-0 top-[211px] absolute">
+    <div className="Frame12 w-80 h-10 left-[51px] top-[267px] absolute justify-center items-center inline-flex">
+      <div className="Frame10 grow shrink basis-0 self-stretch justify-center items-center inline-flex" />
+    </div>
+    <div className="DatosDeRecuperaciN w-80 h-4 left-[51px] top-[57px] absolute text-center text-black text-2xl font-bold font-['B612']">Datos de recuperación</div>
+    <div className="CorreoElectrNico w-56 h-4 left-[116px] top-[110px] absolute text-center text-black text-xl font-normal font-['B612']">Correo Electrónico</div>
+    <div className="DocumentoDeIdentidad w-80 h-4 left-[59px] top-[168px] absolute text-center text-black text-xl font-normal font-['B612']">Documento de Identidad</div>
+    <div className="Recuperar w-52 h-4 left-[112px] top-[275px] absolute text-center text-white text-xl font-normal font-['B612']">Recuperar</div>
+    <div className="Publico w-14 h-4 left-[116px] top-[218px] absolute text-black text-xs font-normal font-['B612']">Publico</div>
+    <div className="Privado w-16 h-4 left-[278px] top-[218px] absolute text-center text-black text-xs font-normal font-['B612']">Privado</div>
+    <div className="Ellipse8 w-5 h-5 left-[264px] top-[215px] absolute bg-zinc-300 rounded-full" />
+    <div className="Ellipse9 w-5 h-5 left-[91px] top-[215px] absolute bg-zinc-300 rounded-full" />
+  </div>
+</div>
+<div className="Frame17 w-96 h-96 relative">
+  <div className="Frame22 w-96 h-96 left-0 top-0 absolute flex-col justify-center items-center inline-flex">
+    <div className="CrearUsuario w-96 h-96 relative bg-white flex-col justify-start items-start flex">
+      <div className="Frame23 w-80 h-48 justify-center items-center inline-flex">
+        <div className="Union w-80 h-48 relative bg-white flex-col justify-start items-start flex">
+          <img className="Union w-80 h-48" src="https://via.placeholder.com/349x188" />
+          <div className="UsuarioYContraseAIncorrecta w-56 h-6 text-center text-neutral-50 text-xl font-normal font-['B612']">Error al recuperar usuario!<br/>Datos no encontrados en la BD</div>
+        </div>
+      </div>
+      <img className="Image3 w-44 h-16" src="https://via.placeholder.com/180x66" />
+      <img className="Image4 w-16 h-16" src="https://via.placeholder.com/69x70" />
+      <img className="Image1 w-16 h-16" src="https://via.placeholder.com/66x66" />
+      <img className="Image2 w-16 h-16" src="https://via.placeholder.com/72x68" />
+    </div>
+  </div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[67px] top-[89px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+</div>
+<div className="Frame19 w-96 h-96 relative">
+  <div className="NotificaciNDeCreaciNDeUsuario w-96 h-96 left-0 top-0 absolute bg-white">
+    <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+    <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+    <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+    <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+    <div className="Union w-80 h-48 left-[53px] top-[285px] absolute">
+      <img className="Union w-80 h-48 left-0 top-0 absolute" src="https://via.placeholder.com/349x188" />
+      <div className="UsuarioYContraseAIncorrecta w-56 h-6 left-[66px] top-[69px] absolute text-center text-neutral-50 text-xl font-normal font-['B612']">Usuario Creado con éxito!</div>
+    </div>
+  </div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[67px] top-[89px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+</div>
+<div className="Frame20 w-96 h-96 relative">
+  <div className="NotificaciNDeCreaciNDeUsuario w-96 h-96 left-0 top-0 absolute bg-white">
+    <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+    <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+    <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+    <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+    <div className="Union w-80 h-48 left-[53px] top-[285px] absolute">
+      <img className="Union w-80 h-48 left-0 top-0 absolute" src="https://via.placeholder.com/349x188" />
+      <div className="UsuarioYContraseAIncorrecta w-56 h-6 left-[66px] top-[69px] absolute text-center text-neutral-50 text-xl font-normal font-['B612']">Correo enviado con  éxito, para restablecer la contraseña.</div>
+    </div>
+  </div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[67px] top-[89px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+</div>
+<div className="Frame25 w-96 h-96 relative">
+  <div className="Configurar w-96 h-96 left-0 top-0 absolute bg-white">
+    <div className="Frame33 w-14 h-11 left-[-281px] top-[748px] absolute" />
+    <div className="Rectangle22 w-96 h-14 left-0 top-[744px] absolute bg-zinc-600" />
+    <div className="Rectangle24 w-40 h-14 left-[282px] top-[744px] absolute bg-stone-900" />
+    <div className="Rectangle23 w-96 h-14 left-0 top-0 absolute bg-zinc-300" />
+    <img className="Image6 w-8 h-8 left-[60px] top-[755px] absolute" src="https://via.placeholder.com/31x32" />
+    <img className="Image21 w-9 h-8 left-[39px] top-[396px] absolute" src="https://via.placeholder.com/36x34" />
+    <img className="Image22 w-9 h-7 left-[39px] top-[564px] absolute" src="https://via.placeholder.com/35x27" />
+    <div className="Frame34 w-14 h-11 left-[186px] top-[750px] absolute justify-center items-center inline-flex">
+      <img className="Image8 w-14 h-11" src="https://via.placeholder.com/55x45" />
+    </div>
+    <div className="Frame32 w-11 h-9 left-[344px] top-[750px] absolute justify-center items-center inline-flex">
+      <img className="Image7 w-11 h-9" src="https://via.placeholder.com/45x37" />
+    </div>
+  </div>
+  <div className="HolaAlejandraSanchez w-64 h-7 left-[10px] top-[16px] absolute text-black text-xl font-bold font-['B612']">Hola Alejandra Sanchez</div>
+  <img className="Image20 w-44 h-36 left-[98px] top-[114px] absolute" src="https://via.placeholder.com/170x149" />
+  <div className="AlejandraMarA w-56 h-4 left-[95px] top-[288px] absolute text-center text-black text-xl font-normal font-['B612']">Alejandra María</div>
+  <div className="SanchezVelasquez w-56 h-4 left-[95px] top-[343px] absolute text-center text-black text-xl font-normal font-['B612']">Sanchez Velasquez</div>
+  <div className="SantiagoDeCali w-56 h-4 left-[95px] top-[401px] absolute text-center text-black text-xl font-normal font-['B612']">Santiago de Cali</div>
+  <div className="InvestigadoraCriminal w-56 h-4 left-[95px] top-[456px] absolute text-center text-black text-xl font-normal font-['B612']">Investigadora Criminal</div>
+  <div className="Fgn w-56 h-4 left-[95px] top-[511px] absolute text-center text-black text-xl font-normal font-['B612']">FGN</div>
+  <div className="FirmaDigital w-56 h-4 left-[95px] top-[566px] absolute text-center text-black text-xl font-normal font-['B612']">Firma Digital</div>
+  <div className="Modificar w-52 h-6 left-[228px] top-[675px] absolute text-center text-white text-xl font-normal font-['B612']">Modificar</div>
+  <div className="Cancelar w-52 h-6 left-[14px] top-[674px] absolute text-center text-white text-xl font-normal font-['B612']">Cancelar</div>
+</div>
+<div className="Frame27 w-96 h-96 relative">
+  <div className="Frame26 w-96 h-96 left-0 top-0 absolute">
+    <div className="Favorito w-96 h-96 left-[4px] top-[-1px] absolute bg-white">
+      <div className="Rectangle22 w-96 h-14 left-0 top-[744px] absolute bg-zinc-600" />
+      <div className="Rectangle24 w-40 h-14 left-[129px] top-[745px] absolute bg-stone-900" />
+      <div className="Rectangle23 w-96 h-14 left-0 top-0 absolute bg-zinc-300" />
+      <img className="Image6 w-8 h-8 left-[60px] top-[755px] absolute" src="https://via.placeholder.com/31x32" />
+      <img className="Image21 w-9 h-8 left-[52px] top-[117px] absolute" src="https://via.placeholder.com/36x34" />
+      <div className="SantiagoDeCali w-56 h-4 left-[108px] top-[122px] absolute text-center text-black text-xl font-normal font-['B612']">Santiago de Cali</div>
+      <img className="Image22 w-9 h-8 left-[50px] top-[335px] absolute" src="https://via.placeholder.com/36x34" />
+      <div className="Cartagena w-56 h-4 left-[106px] top-[340px] absolute text-center text-black text-xl font-normal font-['B612']">Cartagena</div>
+    </div>
+    <div className="HolaAlejandraSanchez w-64 h-7 left-[10px] top-[16px] absolute text-black text-xl font-bold font-['B612']">Hola Alejandra Sanchez</div>
+    <div className="Imprimir w-56 h-6 left-[96px] top-[252px] absolute text-center text-black text-xl font-normal font-['B612']">Imprimir</div>
+    <div className="EmpYOEfDiscoCompactoFecha10112024DespachoFiscalA11UnidadDeDelitosInformaticosInformeGeneradoSHashSRotuloYCadenaDeCustodiaFirmadoS w-80 h-20 left-[57px] top-[158px] absolute text-center text-black text-xs font-normal font-['B612']">EMP y/o EF: Disco Compacto<br/>Fecha: 10/11/2024<br/>Despacho:  Fiscalía 11 Unidad de Delitos Informaticos<br/>Informe Generado: Sí<br/>HASH: Sí<br/>Rotulo y Cadena de Custodia Firmado: Sí</div>
+    <div className="EmpYOEfUsbPendriveFecha1112024DespachoFiscalA11UnidadDeDelitosInformaticosInformeGeneradoSHashSRotuloYCadenaDeCustodiaFirmadoS w-80 h-20 left-[55px] top-[376px] absolute text-center text-black text-xs font-normal font-['B612']">EMP y/o EF: USB Pendrive<br/>Fecha: 1/11/2024<br/>Despacho:  Fiscalía 11 Unidad de Delitos Informaticos<br/>Informe Generado: Sí<br/>HASH: Sí<br/>Rotulo y Cadena de Custodia Firmado: Sí</div>
+    <div className="Imprimir w-56 h-6 left-[94px] top-[470px] absolute text-center text-black text-xl font-normal font-['B612']">Imprimir</div>
+    <div className="Modificar w-52 h-6 left-[228px] top-[675px] absolute text-center text-white text-xl font-normal font-['B612']">Modificar</div>
+    <div className="Cancelar w-52 h-6 left-[14px] top-[674px] absolute text-center text-white text-xl font-normal font-['B612']">Cancelar</div>
+  </div>
+  <div className="Frame32 w-11 h-9 left-[353px] top-[750px] absolute justify-center items-center inline-flex">
+    <img className="Image7 w-11 h-9" src="https://via.placeholder.com/45x37" />
+  </div>
+  <div className="Frame34 w-14 h-11 left-[186px] top-[750px] absolute justify-center items-center inline-flex">
+    <img className="Image8 w-14 h-11" src="https://via.placeholder.com/55x45" />
+  </div>
+</div>
+<div className="Frame29 w-96 h-96 relative">
+  <div className="Frame28 w-96 h-96 left-0 top-0 absolute">
+    <div className="CrearEmpYOEf w-96 h-96 left-0 top-0 absolute bg-white">
+      <div className="Rectangle22 w-96 h-14 left-0 top-[744px] absolute bg-zinc-600" />
+      <div className="Rectangle23 w-96 h-14 left-0 top-0 absolute bg-zinc-300" />
+      <div className="Rectangle15 w-80 h-12 left-[53px] top-[182px] absolute bg-orange-300 rounded-2xl" />
+      <div className="Rectangle24 w-80 h-12 left-[53px] top-[182px] absolute bg-orange-300 rounded-2xl" />
+      <div className="CapturarImagen w-80 h-9 left-[48px] top-[192px] absolute text-center text-black text-xl font-bold font-['B612']">Capturar Imagen</div>
+      <div className="TipoDeEvidencia w-56 h-4 left-[113px] top-[94px] absolute text-center text-black text-base font-normal font-['B612']">Tipo de Evidencia</div>
+      <div className="Nunc w-56 h-4 left-[113px] top-[138px] absolute text-center text-black text-base font-normal font-['B612']">NUNC</div>
+      <div className="NombreQuienHall w-44 h-4 left-[43px] top-[262px] absolute text-center text-black text-xs font-normal font-['B612']">Nombre quien halló</div>
+      <div className="DocumentoDeIdentidad w-44 h-4 left-[220px] top-[262px] absolute text-center text-black text-xs font-normal font-['B612']">Documento de Identidad</div>
+      <div className="NombreQuienEmbal w-44 h-4 left-[43px] top-[350px] absolute text-center text-black text-xs font-normal font-['B612']">Nombre quien embaló</div>
+      <div className="DocumentoDeIdentidad w-44 h-4 left-[220px] top-[350px] absolute text-center text-black text-xs font-normal font-['B612']">Documento de Identidad</div>
+      <div className="NombreQuienRecolect w-44 h-4 left-[43px] top-[306px] absolute text-center text-black text-xs font-normal font-['B612']">Nombre quien recolectó</div>
+      <div className="DocumentoDeIdentidad w-44 h-4 left-[220px] top-[306px] absolute text-center text-black text-xs font-normal font-['B612']">Documento de Identidad</div>
+      <img className="Image6 w-8 h-8 left-[60px] top-[755px] absolute" src="https://via.placeholder.com/31x32" />
+      <div className="Lugar w-56 h-4 left-[110px] top-[422px] absolute text-center text-black text-base font-normal font-['B612']">Lugar</div>
+      <div className="SitioDelHallazgo w-56 h-4 left-[106px] top-[470px] absolute text-center text-black text-base font-normal font-['B612']">Sitio del hallazgo</div>
+      <img className="Image27 w-9 h-8 left-[60px] top-[413px] absolute" src="https://via.placeholder.com/36x34" />
+      <div className="Frame34 w-52 h-6 left-[224px] top-[675px] absolute justify-center items-center inline-flex">
+        <div className="Frame31 grow shrink basis-0 self-stretch justify-center items-center inline-flex">
+          <div className="Continuar w-52 h-6 text-center text-white text-xl font-normal font-['B612']">Continuar</div>
+        </div>
+      </div>
+      <div className="Cancelar w-52 h-6 left-[10px] top-[674px] absolute text-center text-white text-xl font-normal font-['B612']">Cancelar</div>
+    </div>
+    <div className="HolaAlejandraSanchez w-64 h-7 left-[20px] top-[23px] absolute text-black text-xl font-bold font-['B612']">Hola Alejandra Sanchez</div>
+  </div>
+  <img className="Image24 w-11 h-9 left-[346px] top-[752px] absolute" src="https://via.placeholder.com/45x37" />
+  <img className="Image25 w-14 h-11 left-[193px] top-[748px] absolute" src="https://via.placeholder.com/55x45" />
+  <img className="Image26 w-8 h-7 left-[344px] top-[92px] absolute" src="https://via.placeholder.com/31x29" />
+</div>
+<div className="Frame30 w-96 h-96 relative">
+  <div className="ErrorDeDiligenciamiento w-96 h-96 left-0 top-0 absolute bg-white">
+    <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+    <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+    <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+    <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+    <div className="Union w-80 h-48 left-[53px] top-[285px] absolute">
+      <img className="Union w-80 h-48 left-0 top-0 absolute" src="https://via.placeholder.com/349x188" />
+      <div className="UsuarioYContraseAIncorrecta w-56 h-6 left-[66px] top-[69px] absolute text-center text-neutral-50 text-xl font-normal font-['B612']">Diligenciar todos los campos</div>
+    </div>
+  </div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[61px] top-[89px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+</div>
+<div className="Frame35 w-96 h-96 relative">
+  <div className="Men w-96 h-96 left-0 top-0 absolute bg-white">
+    <div className="Rectangle22 w-96 h-14 left-[5px] top-[744px] absolute bg-zinc-600" />
+    <div className="Rectangle23 w-96 h-14 left-0 top-0 absolute bg-zinc-300" />
+    <div className="Rectangle15 w-80 h-12 left-[48px] top-[156px] absolute bg-orange-300 rounded-2xl" />
+    <div className="Rectangle25 w-32 h-14 left-[-1px] top-[745px] absolute bg-stone-900" />
+    <div className="Frame24 w-80 h-28 left-[43px] top-[86px] absolute">
+      <div className="Rectangle24 w-80 h-12 left-[5px] top-[70px] absolute bg-orange-300 rounded-2xl" />
+      <div className="CrearEmpYOEf w-80 h-9 left-0 top-[80px] absolute text-center text-black text-xl font-bold font-['B612']">Crear EMP y/o EF</div>
+      <div className="Buscar w-56 h-4 left-[70px] top-[8px] absolute text-center text-black text-xl font-normal font-['B612']">Buscar</div>
+    </div>
+    <img className="Image6 w-8 h-8 left-[60px] top-[755px] absolute" src="https://via.placeholder.com/31x32" />
+    <img className="Image5 w-5 h-5 left-[51px] top-[95px] absolute" src="https://via.placeholder.com/21x19" />
+  </div>
+  <div className="Frame24 w-64 h-7 left-[10px] top-[16px] absolute justify-center items-center inline-flex">
+    <div className="HolaAlejandraSanchez w-64 h-7 text-black text-xl font-bold font-['B612']">Hola Alejandra Sanchez</div>
+  </div>
+  <img className="Image8 w-14 h-11 left-[198px] top-[745px] absolute" src="https://via.placeholder.com/55x45" />
+  <div className="Frame32 w-11 h-9 left-[325px] top-[752px] absolute justify-center items-center inline-flex">
+    <img className="Image7 w-11 h-9" src="https://via.placeholder.com/45x37" />
+  </div>
+</div>
+<div className="Frame36 w-96 h-96 relative">
+  <div className="NotificaciNDeInicio w-96 h-96 left-0 top-0 absolute bg-white">
+    <img className="Image1 w-16 h-16 left-[20px] top-[688px] absolute" src="https://via.placeholder.com/66x66" />
+    <img className="Image2 w-16 h-16 left-[96px] top-[688px] absolute" src="https://via.placeholder.com/72x68" />
+    <img className="Image3 w-44 h-16 left-[258px] top-[684px] absolute" src="https://via.placeholder.com/180x66" />
+    <img className="Image4 w-16 h-16 left-[178px] top-[684px] absolute" src="https://via.placeholder.com/69x70" />
+    <div className="Union w-80 h-48 left-[53px] top-[285px] absolute">
+      <img className="Union w-80 h-48 left-0 top-0 absolute" src="https://via.placeholder.com/349x188" />
+      <div className="UsuarioYContraseAIncorrecta w-56 h-6 left-[66px] top-[69px] absolute text-center text-neutral-50 text-xl font-normal font-['B612']">Inicio de Sesión con Exito!</div>
+    </div>
+  </div>
+  <div className="ProcesamientoDeEvidenciaDigital w-80 h-20 left-[61px] top-[107px] absolute text-center text-black text-3xl font-bold font-['B612']">Procesamiento de Evidencia Digital</div>
+</div>

@@ -1,0 +1,3952 @@
+Container(
+  width: 440,
+  height: 800,
+  clipBehavior: Clip.antiAlias,
+  decoration: BoxDecoration(color: Colors.white),
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 744,
+        child: Container(
+          width: 440,
+          height: 56,
+          decoration: BoxDecoration(color: Color(0xFF565656)),
+        ),
+      ),
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 56,
+          decoration: BoxDecoration(color: Color(0xFFD6D6D6)),
+        ),
+      ),
+      Positioned(
+        left: 53,
+        top: 182,
+        child: Container(
+          width: 327,
+          height: 48,
+          decoration: ShapeDecoration(
+            color: Color(0xFFECB764),
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 53,
+        top: 182,
+        child: Container(
+          width: 327,
+          height: 48,
+          decoration: ShapeDecoration(
+            color: Color(0xFFECB764),
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 48,
+        top: 192,
+        child: SizedBox(
+          width: 338,
+          height: 38,
+          child: Text(
+            'Cargar Archivo Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 57,
+        top: 458,
+        child: Container(
+          width: 327,
+          height: 48,
+          decoration: ShapeDecoration(
+            color: Color(0xFFECB764),
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 57,
+        top: 458,
+        child: Container(
+          width: 327,
+          height: 48,
+          decoration: ShapeDecoration(
+            color: Color(0xFFECB764),
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 52,
+        top: 468,
+        child: SizedBox(
+          width: 338,
+          height: 38,
+          child: Text(
+            'Generar HASH',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 113,
+        top: 94,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Nombre del Caso',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 16,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 113,
+        top: 138,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Detalle del Caso',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 16,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 60,
+        top: 755,
+        child: Container(
+          width: 31,
+          height: 32,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/31x32"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 110,
+        top: 422,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Contenedor de embalaje',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 15,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 224,
+        top: 675,
+        child: SizedBox(
+          width: 216,
+          height: 24,
+          child: Text(
+            'Finalizar',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 10,
+        top: 674,
+        child: SizedBox(
+          width: 216,
+          height: 24,
+          child: Text(
+            'Cancelar',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 116,
+        top: 262,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Delito',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 16,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 346,
+        top: 256,
+        child: Container(
+          width: 31,
+          height: 29,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/31x29"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 116,
+        top: 306,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Despacho Fiscal',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 16,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 346,
+        top: 300,
+        child: Container(
+          width: 31,
+          height: 29,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/31x29"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 345,
+        top: 418,
+        child: Container(
+          width: 31,
+          height: 29,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/31x29"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 116,
+        top: 350,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Nombre Fiscal',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 16,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 336,
+        top: 752,
+        child: Container(
+          width: 45,
+          height: 37,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/45x37"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 181,
+        top: 748,
+        child: Container(
+          width: 55,
+          height: 45,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/55x45"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 10,
+        top: 16,
+        child: SizedBox(
+          width: 253,
+          height: 28,
+          child: Text(
+            'Hola Alejandra Sanchez',
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  clipBehavior: Clip.antiAlias,
+  decoration: BoxDecoration(color: Colors.white),
+  child: Stack(
+    children: [
+      Positioned(
+        left: 20,
+        top: 688,
+        child: Container(
+          width: 66,
+          height: 66,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/66x66"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 96,
+        top: 688,
+        child: Container(
+          width: 72,
+          height: 68,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/72x68"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 258,
+        top: 684,
+        child: Container(
+          width: 180,
+          height: 66,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/180x66"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 178,
+        top: 684,
+        child: Container(
+          width: 69,
+          height: 70,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/69x70"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 53,
+        top: 285,
+        child: Container(
+          width: 349,
+          height: 188,
+          child: Stack(
+            children: [
+              Positioned(
+                left: 0,
+                top: 0,
+                child: Container(
+                  width: 349,
+                  height: 188,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/349x188"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 66,
+                top: 69,
+                child: SizedBox(
+                  width: 217,
+                  height: 25.46,
+                  child: Text(
+                    'Informes creado con éxito!',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Color(0xFFFFFAFA),
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 67,
+        top: 89,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  clipBehavior: Clip.antiAlias,
+  decoration: BoxDecoration(color: Colors.white),
+  child: Stack(
+    children: [
+      Positioned(
+        left: 20,
+        top: 688,
+        child: Container(
+          width: 66,
+          height: 66,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/66x66"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 96,
+        top: 688,
+        child: Container(
+          width: 72,
+          height: 68,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/72x68"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 258,
+        top: 684,
+        child: Container(
+          width: 180,
+          height: 66,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/180x66"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 178,
+        top: 684,
+        child: Container(
+          width: 69,
+          height: 70,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/69x70"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 53,
+        top: 285,
+        child: Container(
+          width: 349,
+          height: 188,
+          child: Stack(
+            children: [
+              Positioned(
+                left: 0,
+                top: 0,
+                child: Container(
+                  width: 349,
+                  height: 188,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/349x188"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 66,
+                top: 69,
+                child: SizedBox(
+                  width: 217,
+                  height: 25.46,
+                  child: Text(
+                    'Error en el sistema información no valida',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Color(0xFFFFFAFA),
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 67,
+        top: 89,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: ShapeDecoration(
+            color: Colors.white,
+            shape: RoundedRectangleBorder(side: BorderSide(width: 1)),
+            shadows: [
+              BoxShadow(
+                color: Color(0x3F000000),
+                blurRadius: 4,
+                offset: Offset(0, 4),
+                spreadRadius: 0,
+              )
+            ],
+          ),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 20,
+                top: 688,
+                child: Container(
+                  width: 66,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/66x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 688,
+                child: Container(
+                  width: 72,
+                  height: 68,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/72x68"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 258,
+                top: 684,
+                child: Container(
+                  width: 180,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 178,
+                top: 684,
+                child: Container(
+                  width: 69,
+                  height: 70,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/69x70"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 47,
+        top: 477,
+        child: Container(
+          width: 338,
+          height: 42,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Expanded(
+                child: Container(
+                  height: double.infinity,
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                    ,
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 123,
+        top: 268,
+        child: SizedBox(
+          width: 215,
+          height: 18,
+          child: Text(
+            'Inicio de Sesión',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 24,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 67,
+        top: 89,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 94,
+        top: 538,
+        child: Container(
+          width: 217,
+          height: 16,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              SizedBox(
+                width: 217,
+                height: 16,
+                child: Text(
+                  'Recuperar Contraseña',
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    color: Colors.black,
+                    fontSize: 15,
+                    fontFamily: 'B612',
+                    fontWeight: FontWeight.w400,
+                    height: 0,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 97,
+        top: 586,
+        child: Container(
+          width: 217,
+          height: 19,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              SizedBox(
+                width: 217,
+                height: 19,
+                child: Text(
+                  'Crear Cuenta',
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    color: Colors.black,
+                    fontSize: 16,
+                    fontFamily: 'B612',
+                    fontWeight: FontWeight.w700,
+                    height: 0,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 112,
+        top: 321,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Usuario',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 112,
+        top: 379,
+        child: SizedBox(
+          width: 217,
+          height: 17,
+          child: Text(
+            'Contraseña',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 108,
+        top: 486,
+        child: SizedBox(
+          width: 216,
+          height: 16,
+          child: Text(
+            'Iniciar Sesión',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 112,
+        top: 429,
+        child: SizedBox(
+          width: 56,
+          height: 17,
+          child: Text(
+            'Publico',
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 10,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 274,
+        top: 429,
+        child: SizedBox(
+          width: 72,
+          height: 17,
+          child: Text(
+            'Privado',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 10,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 260,
+        top: 426,
+        child: Container(
+          width: 21,
+          height: 19,
+          decoration: ShapeDecoration(
+            color: Color(0xFFD9D9D9),
+            shape: OvalBorder(),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 87,
+        top: 426,
+        child: Container(
+          width: 20,
+          height: 19,
+          decoration: ShapeDecoration(
+            color: Color(0xFFD9D9D9),
+            shape: OvalBorder(),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Container(
+                width: 440,
+                height: 800,
+                clipBehavior: Clip.antiAlias,
+                decoration: BoxDecoration(color: Colors.white),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  mainAxisAlignment: MainAxisAlignment.start,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Container(
+                      width: 349,
+                      height: 188,
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        crossAxisAlignment: CrossAxisAlignment.center,
+                        children: [
+                          Container(
+                            width: 349,
+                            height: 188,
+                            child: Column(
+                              mainAxisSize: MainAxisSize.min,
+                              mainAxisAlignment: MainAxisAlignment.start,
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Container(
+                                  width: 349,
+                                  height: 188,
+                                  decoration: BoxDecoration(
+                                    image: DecorationImage(
+                                      image: NetworkImage("https://via.placeholder.com/349x188"),
+                                      fit: BoxFit.fill,
+                                    ),
+                                  ),
+                                ),
+                                SizedBox(
+                                  width: 217,
+                                  height: 25.46,
+                                  child: Text(
+                                    'Usuario y Contraseña Incorrecta',
+                                    textAlign: TextAlign.center,
+                                    style: TextStyle(
+                                      color: Color(0xFFFFFAFA),
+                                      fontSize: 20,
+                                      fontFamily: 'B612',
+                                      fontWeight: FontWeight.w400,
+                                      height: 0,
+                                    ),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    Container(
+                      width: 180,
+                      height: 66,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: NetworkImage("https://via.placeholder.com/180x66"),
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                    ),
+                    Container(
+                      width: 69,
+                      height: 70,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: NetworkImage("https://via.placeholder.com/69x70"),
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                    ),
+                    Container(
+                      width: 66,
+                      height: 66,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: NetworkImage("https://via.placeholder.com/66x66"),
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                    ),
+                    Container(
+                      width: 72,
+                      height: 68,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: NetworkImage("https://via.placeholder.com/72x68"),
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 67,
+        top: 96,
+        child: Container(
+          width: 318,
+          height: 80,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              SizedBox(
+                width: 318,
+                height: 80,
+                child: Text(
+                  'Procesamiento de Evidencia Digital',
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    color: Colors.black,
+                    fontSize: 32,
+                    fontFamily: 'B612',
+                    fontWeight: FontWeight.w700,
+                    height: 0,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 470,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 15,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 20,
+                top: 688,
+                child: Container(
+                  width: 66,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/66x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 688,
+                child: Container(
+                  width: 72,
+                  height: 68,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/72x68"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 258,
+                top: 684,
+                child: Container(
+                  width: 180,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 178,
+                top: 684,
+                child: Container(
+                  width: 69,
+                  height: 70,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/69x70"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 118,
+                top: 543,
+                child: SizedBox(
+                  width: 217,
+                  height: 17,
+                  child: Text(
+                    'Contraseña',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 118,
+                top: 427,
+                child: SizedBox(
+                  width: 217,
+                  height: 17,
+                  child: Text(
+                    'Rol',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 351,
+                top: 329,
+                child: Container(
+                  width: 31,
+                  height: 29,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/31x29"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 80,
+        top: 618,
+        child: Container(
+          width: 338,
+          height: 42,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+            ,
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 0,
+        top: 120,
+        child: SizedBox(
+          width: 215,
+          height: 18,
+          child: Text(
+            'Registro',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 24,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 87,
+        top: 26,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 142,
+        top: 167,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Nombre',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 152,
+        top: 482,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Crear Firma Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 142,
+        top: 280,
+        child: SizedBox(
+          width: 217,
+          height: 24,
+          child: Text(
+            'Cedula',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 142,
+        top: 331,
+        child: SizedBox(
+          width: 217,
+          height: 24,
+          child: Text(
+            'Entidad Judicial',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 142,
+        top: 222,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Apellido',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 141,
+        top: 626,
+        child: SizedBox(
+          width: 216,
+          height: 16,
+          child: Text(
+            'Crear Cuenta',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 141,
+        top: 377,
+        child: SizedBox(
+          width: 56,
+          height: 17,
+          child: Text(
+            'Publico',
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 10,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 303,
+        top: 377,
+        child: SizedBox(
+          width: 72,
+          height: 17,
+          child: Text(
+            'Privado',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 10,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 289,
+        top: 374,
+        child: Container(
+          width: 21,
+          height: 19,
+          decoration: ShapeDecoration(
+            color: Color(0xFFD9D9D9),
+            shape: OvalBorder(),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 116,
+        top: 374,
+        child: Container(
+          width: 20,
+          height: 19,
+          decoration: ShapeDecoration(
+            color: Color(0xFFD9D9D9),
+            shape: OvalBorder(),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 20,
+                top: 688,
+                child: Container(
+                  width: 66,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/66x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 688,
+                child: Container(
+                  width: 72,
+                  height: 68,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/72x68"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 258,
+                top: 684,
+                child: Container(
+                  width: 180,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 178,
+                top: 684,
+                child: Container(
+                  width: 69,
+                  height: 70,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/69x70"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 53,
+                top: 285,
+                child: Container(
+                  width: 349,
+                  height: 188,
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      Expanded(
+                        child: Container(
+                          height: double.infinity,
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                              Container(
+                                width: 349,
+                                height: 188,
+                                decoration: BoxDecoration(color: Colors.white),
+                                child: Column(
+                                  mainAxisSize: MainAxisSize.min,
+                                  mainAxisAlignment: MainAxisAlignment.start,
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Container(
+                                      width: 349,
+                                      height: 188,
+                                      decoration: BoxDecoration(
+                                        image: DecorationImage(
+                                          image: NetworkImage("https://via.placeholder.com/349x188"),
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                    ),
+                                    SizedBox(
+                                      width: 217,
+                                      height: 25.46,
+                                      child: Text(
+                                        'Error al crear usuario!\nDatos no encontrados en la BD',
+                                        textAlign: TextAlign.center,
+                                        style: TextStyle(
+                                          color: Color(0xFFFFFAFA),
+                                          fontSize: 20,
+                                          fontFamily: 'B612',
+                                          fontWeight: FontWeight.w400,
+                                          height: 0,
+                                        ),
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 67,
+        top: 89,
+        child: Container(
+          width: 318,
+          height: 80,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              SizedBox(
+                width: 318,
+                height: 80,
+                child: Text(
+                  'Procesamiento de Evidencia Digital',
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    color: Colors.black,
+                    fontSize: 32,
+                    fontFamily: 'B612',
+                    fontWeight: FontWeight.w700,
+                    height: 0,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 444,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 4,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 20,
+                top: 688,
+                child: Container(
+                  width: 66,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/66x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 688,
+                child: Container(
+                  width: 72,
+                  height: 68,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/72x68"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 258,
+                top: 684,
+                child: Container(
+                  width: 180,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 178,
+                top: 684,
+                child: Container(
+                  width: 69,
+                  height: 70,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/69x70"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 71,
+        top: 89,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Recuperar Cuenta',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 0,
+        top: 211,
+        child: Container(
+          width: 440,
+          height: 359,
+          child: Stack(
+            children: [
+              Positioned(
+                left: 51,
+                top: 267,
+                child: Container(
+                  width: 338,
+                  height: 42,
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      Expanded(
+                        child: Container(
+                          height: double.infinity,
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                            ,
+                            ],
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 51,
+                top: 57,
+                child: SizedBox(
+                  width: 338,
+                  height: 18,
+                  child: Text(
+                    'Datos de recuperación',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 24,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w700,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 116,
+                top: 110,
+                child: SizedBox(
+                  width: 217,
+                  height: 16,
+                  child: Text(
+                    'Correo Electrónico',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 59,
+                top: 168,
+                child: SizedBox(
+                  width: 324,
+                  height: 17,
+                  child: Text(
+                    'Documento de Identidad',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 112,
+                top: 275,
+                child: SizedBox(
+                  width: 216,
+                  height: 16,
+                  child: Text(
+                    'Recuperar',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 116,
+                top: 218,
+                child: SizedBox(
+                  width: 56,
+                  height: 17,
+                  child: Text(
+                    'Publico',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 10,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 278,
+                top: 218,
+                child: SizedBox(
+                  width: 72,
+                  height: 17,
+                  child: Text(
+                    'Privado',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 10,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 264,
+                top: 215,
+                child: Container(
+                  width: 21,
+                  height: 19,
+                  decoration: ShapeDecoration(
+                    color: Color(0xFFD9D9D9),
+                    shape: OvalBorder(),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 91,
+                top: 215,
+                child: Container(
+                  width: 20,
+                  height: 19,
+                  decoration: ShapeDecoration(
+                    color: Color(0xFFD9D9D9),
+                    shape: OvalBorder(),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Container(
+                width: 440,
+                height: 800,
+                clipBehavior: Clip.antiAlias,
+                decoration: BoxDecoration(color: Colors.white),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  mainAxisAlignment: MainAxisAlignment.start,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Container(
+                      width: 349,
+                      height: 188,
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        crossAxisAlignment: CrossAxisAlignment.center,
+                        children: [
+                          Container(
+                            width: 349,
+                            height: 188,
+                            decoration: BoxDecoration(color: Colors.white),
+                            child: Column(
+                              mainAxisSize: MainAxisSize.min,
+                              mainAxisAlignment: MainAxisAlignment.start,
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Container(
+                                  width: 349,
+                                  height: 188,
+                                  decoration: BoxDecoration(
+                                    image: DecorationImage(
+                                      image: NetworkImage("https://via.placeholder.com/349x188"),
+                                      fit: BoxFit.fill,
+                                    ),
+                                  ),
+                                ),
+                                SizedBox(
+                                  width: 217,
+                                  height: 25.46,
+                                  child: Text(
+                                    'Error al recuperar usuario!\nDatos no encontrados en la BD',
+                                    textAlign: TextAlign.center,
+                                    style: TextStyle(
+                                      color: Color(0xFFFFFAFA),
+                                      fontSize: 20,
+                                      fontFamily: 'B612',
+                                      fontWeight: FontWeight.w400,
+                                      height: 0,
+                                    ),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    Container(
+                      width: 180,
+                      height: 66,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: NetworkImage("https://via.placeholder.com/180x66"),
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                    ),
+                    Container(
+                      width: 69,
+                      height: 70,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: NetworkImage("https://via.placeholder.com/69x70"),
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                    ),
+                    Container(
+                      width: 66,
+                      height: 66,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: NetworkImage("https://via.placeholder.com/66x66"),
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                    ),
+                    Container(
+                      width: 72,
+                      height: 68,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: NetworkImage("https://via.placeholder.com/72x68"),
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 67,
+        top: 89,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 20,
+                top: 688,
+                child: Container(
+                  width: 66,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/66x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 688,
+                child: Container(
+                  width: 72,
+                  height: 68,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/72x68"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 258,
+                top: 684,
+                child: Container(
+                  width: 180,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 178,
+                top: 684,
+                child: Container(
+                  width: 69,
+                  height: 70,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/69x70"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 53,
+                top: 285,
+                child: Container(
+                  width: 349,
+                  height: 188,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 349,
+                          height: 188,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/349x188"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 66,
+                        top: 69,
+                        child: SizedBox(
+                          width: 217,
+                          height: 25.46,
+                          child: Text(
+                            'Usuario Creado con éxito!',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Color(0xFFFFFAFA),
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 67,
+        top: 89,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 20,
+                top: 688,
+                child: Container(
+                  width: 66,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/66x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 688,
+                child: Container(
+                  width: 72,
+                  height: 68,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/72x68"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 258,
+                top: 684,
+                child: Container(
+                  width: 180,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 178,
+                top: 684,
+                child: Container(
+                  width: 69,
+                  height: 70,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/69x70"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 53,
+                top: 285,
+                child: Container(
+                  width: 349,
+                  height: 188,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 349,
+                          height: 188,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/349x188"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 66,
+                        top: 69,
+                        child: SizedBox(
+                          width: 217,
+                          height: 25.46,
+                          child: Text(
+                            'Correo enviado con  éxito, para restablecer la contraseña.',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Color(0xFFFFFAFA),
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 67,
+        top: 89,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 444,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: -281,
+                top: 748,
+                child: Container(width: 55, height: 45),
+              ),
+              Positioned(
+                left: 0,
+                top: 744,
+                child: Container(
+                  width: 440,
+                  height: 56,
+                  decoration: BoxDecoration(color: Color(0xFF565656)),
+                ),
+              ),
+              Positioned(
+                left: 282,
+                top: 744,
+                child: Container(
+                  width: 158,
+                  height: 56,
+                  decoration: BoxDecoration(color: Color(0xFF1A1919)),
+                ),
+              ),
+              Positioned(
+                left: 0,
+                top: 0,
+                child: Container(
+                  width: 440,
+                  height: 56,
+                  decoration: BoxDecoration(color: Color(0xFFD6D6D6)),
+                ),
+              ),
+              Positioned(
+                left: 60,
+                top: 755,
+                child: Container(
+                  width: 31,
+                  height: 32,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/31x32"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 39,
+                top: 396,
+                child: Container(
+                  width: 36,
+                  height: 34,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/36x34"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 39,
+                top: 564,
+                child: Container(
+                  width: 35,
+                  height: 27,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/35x27"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 186,
+                top: 750,
+                child: Container(
+                  width: 55,
+                  height: 45,
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      Container(
+                        width: 55,
+                        height: 45,
+                        decoration: BoxDecoration(
+                          image: DecorationImage(
+                            image: NetworkImage("https://via.placeholder.com/55x45"),
+                            fit: BoxFit.fill,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 344,
+                top: 750,
+                child: Container(
+                  width: 45,
+                  height: 37,
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      Container(
+                        width: 45,
+                        height: 37,
+                        decoration: BoxDecoration(
+                          image: DecorationImage(
+                            image: NetworkImage("https://via.placeholder.com/45x37"),
+                            fit: BoxFit.fill,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 10,
+        top: 16,
+        child: SizedBox(
+          width: 253,
+          height: 28,
+          child: Text(
+            'Hola Alejandra Sanchez',
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 98,
+        top: 114,
+        child: Container(
+          width: 170,
+          height: 149,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/170x149"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 95,
+        top: 288,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Alejandra María',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 95,
+        top: 343,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Sanchez Velasquez',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 95,
+        top: 401,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Santiago de Cali',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 95,
+        top: 456,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Investigadora Criminal',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 95,
+        top: 511,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'FGN',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 95,
+        top: 566,
+        child: SizedBox(
+          width: 217,
+          height: 16,
+          child: Text(
+            'Firma Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 228,
+        top: 675,
+        child: SizedBox(
+          width: 216,
+          height: 24,
+          child: Text(
+            'Modificar',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 14,
+        top: 674,
+        child: SizedBox(
+          width: 216,
+          height: 24,
+          child: Text(
+            'Cancelar',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w400,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 444,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 444,
+          height: 800,
+          child: Stack(
+            children: [
+              Positioned(
+                left: 4,
+                top: -1,
+                child: Container(
+                  width: 440,
+                  height: 800,
+                  clipBehavior: Clip.antiAlias,
+                  decoration: BoxDecoration(color: Colors.white),
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 744,
+                        child: Container(
+                          width: 440,
+                          height: 56,
+                          decoration: BoxDecoration(color: Color(0xFF565656)),
+                        ),
+                      ),
+                      Positioned(
+                        left: 129,
+                        top: 745,
+                        child: Container(
+                          width: 158,
+                          height: 56,
+                          decoration: BoxDecoration(color: Color(0xFF1A1919)),
+                        ),
+                      ),
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 440,
+                          height: 56,
+                          decoration: BoxDecoration(color: Color(0xFFD6D6D6)),
+                        ),
+                      ),
+                      Positioned(
+                        left: 60,
+                        top: 755,
+                        child: Container(
+                          width: 31,
+                          height: 32,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/31x32"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 52,
+                        top: 117,
+                        child: Container(
+                          width: 36,
+                          height: 34,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/36x34"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 108,
+                        top: 122,
+                        child: SizedBox(
+                          width: 217,
+                          height: 16,
+                          child: Text(
+                            'Santiago de Cali',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 50,
+                        top: 335,
+                        child: Container(
+                          width: 36,
+                          height: 34,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/36x34"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 106,
+                        top: 340,
+                        child: SizedBox(
+                          width: 217,
+                          height: 16,
+                          child: Text(
+                            'Cartagena',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 10,
+                top: 16,
+                child: SizedBox(
+                  width: 253,
+                  height: 28,
+                  child: Text(
+                    'Hola Alejandra Sanchez',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w700,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 252,
+                child: SizedBox(
+                  width: 217,
+                  height: 24,
+                  child: Text(
+                    'Imprimir',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 57,
+                top: 158,
+                child: SizedBox(
+                  width: 309,
+                  height: 86,
+                  child: Text(
+                    'EMP y/o EF: Disco Compacto\nFecha: 10/11/2024\nDespacho:  Fiscalía 11 Unidad de Delitos Informaticos\nInforme Generado: Sí\nHASH: Sí\nRotulo y Cadena de Custodia Firmado: Sí',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 11,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 55,
+                top: 376,
+                child: SizedBox(
+                  width: 309,
+                  height: 86,
+                  child: Text(
+                    'EMP y/o EF: USB Pendrive\nFecha: 1/11/2024\nDespacho:  Fiscalía 11 Unidad de Delitos Informaticos\nInforme Generado: Sí\nHASH: Sí\nRotulo y Cadena de Custodia Firmado: Sí',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 11,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 94,
+                top: 470,
+                child: SizedBox(
+                  width: 217,
+                  height: 24,
+                  child: Text(
+                    'Imprimir',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 228,
+                top: 675,
+                child: SizedBox(
+                  width: 216,
+                  height: 24,
+                  child: Text(
+                    'Modificar',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 14,
+                top: 674,
+                child: SizedBox(
+                  width: 216,
+                  height: 24,
+                  child: Text(
+                    'Cancelar',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 353,
+        top: 750,
+        child: Container(
+          width: 45,
+          height: 37,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Container(
+                width: 45,
+                height: 37,
+                decoration: BoxDecoration(
+                  image: DecorationImage(
+                    image: NetworkImage("https://via.placeholder.com/45x37"),
+                    fit: BoxFit.fill,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 186,
+        top: 750,
+        child: Container(
+          width: 55,
+          height: 45,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Container(
+                width: 55,
+                height: 45,
+                decoration: BoxDecoration(
+                  image: DecorationImage(
+                    image: NetworkImage("https://via.placeholder.com/55x45"),
+                    fit: BoxFit.fill,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          child: Stack(
+            children: [
+              Positioned(
+                left: 0,
+                top: 0,
+                child: Container(
+                  width: 440,
+                  height: 800,
+                  clipBehavior: Clip.antiAlias,
+                  decoration: BoxDecoration(color: Colors.white),
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 744,
+                        child: Container(
+                          width: 440,
+                          height: 56,
+                          decoration: BoxDecoration(color: Color(0xFF565656)),
+                        ),
+                      ),
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 440,
+                          height: 56,
+                          decoration: BoxDecoration(color: Color(0xFFD6D6D6)),
+                        ),
+                      ),
+                      Positioned(
+                        left: 53,
+                        top: 182,
+                        child: Container(
+                          width: 327,
+                          height: 48,
+                          decoration: ShapeDecoration(
+                            color: Color(0xFFECB764),
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(20),
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 53,
+                        top: 182,
+                        child: Container(
+                          width: 327,
+                          height: 48,
+                          decoration: ShapeDecoration(
+                            color: Color(0xFFECB764),
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(20),
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 48,
+                        top: 192,
+                        child: SizedBox(
+                          width: 338,
+                          height: 38,
+                          child: Text(
+                            'Capturar Imagen',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w700,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 113,
+                        top: 94,
+                        child: SizedBox(
+                          width: 217,
+                          height: 16,
+                          child: Text(
+                            'Tipo de Evidencia',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 16,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 113,
+                        top: 138,
+                        child: SizedBox(
+                          width: 217,
+                          height: 16,
+                          child: Text(
+                            'NUNC',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 16,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 43,
+                        top: 262,
+                        child: SizedBox(
+                          width: 172,
+                          height: 16,
+                          child: Text(
+                            'Nombre quien halló',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 12,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 220,
+                        top: 262,
+                        child: SizedBox(
+                          width: 172,
+                          height: 16,
+                          child: Text(
+                            'Documento de Identidad',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 12,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 43,
+                        top: 350,
+                        child: SizedBox(
+                          width: 172,
+                          height: 16,
+                          child: Text(
+                            'Nombre quien embaló',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 12,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 220,
+                        top: 350,
+                        child: SizedBox(
+                          width: 172,
+                          height: 16,
+                          child: Text(
+                            'Documento de Identidad',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 12,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 43,
+                        top: 306,
+                        child: SizedBox(
+                          width: 172,
+                          height: 16,
+                          child: Text(
+                            'Nombre quien recolectó',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 12,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 220,
+                        top: 306,
+                        child: SizedBox(
+                          width: 172,
+                          height: 16,
+                          child: Text(
+                            'Documento de Identidad',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 12,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 60,
+                        top: 755,
+                        child: Container(
+                          width: 31,
+                          height: 32,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/31x32"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 110,
+                        top: 422,
+                        child: SizedBox(
+                          width: 217,
+                          height: 16,
+                          child: Text(
+                            'Lugar',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 15,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 106,
+                        top: 470,
+                        child: SizedBox(
+                          width: 217,
+                          height: 16,
+                          child: Text(
+                            'Sitio del hallazgo',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 15,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 60,
+                        top: 413,
+                        child: Container(
+                          width: 36,
+                          height: 34,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/36x34"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 224,
+                        top: 675,
+                        child: Container(
+                          width: 216,
+                          height: 24,
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                              Expanded(
+                                child: Container(
+                                  height: double.infinity,
+                                  child: Row(
+                                    mainAxisSize: MainAxisSize.min,
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                    children: [
+                                      SizedBox(
+                                        width: 216,
+                                        height: 24,
+                                        child: Text(
+                                          'Continuar',
+                                          textAlign: TextAlign.center,
+                                          style: TextStyle(
+                                            color: Colors.white,
+                                            fontSize: 20,
+                                            fontFamily: 'B612',
+                                            fontWeight: FontWeight.w400,
+                                            height: 0,
+                                          ),
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 10,
+                        top: 674,
+                        child: SizedBox(
+                          width: 216,
+                          height: 24,
+                          child: Text(
+                            'Cancelar',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 20,
+                top: 23,
+                child: SizedBox(
+                  width: 253,
+                  height: 28,
+                  child: Text(
+                    'Hola Alejandra Sanchez',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontFamily: 'B612',
+                      fontWeight: FontWeight.w700,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 346,
+        top: 752,
+        child: Container(
+          width: 45,
+          height: 37,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/45x37"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 193,
+        top: 748,
+        child: Container(
+          width: 55,
+          height: 45,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/55x45"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 344,
+        top: 92,
+        child: Container(
+          width: 31,
+          height: 29,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/31x29"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 20,
+                top: 688,
+                child: Container(
+                  width: 66,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/66x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 688,
+                child: Container(
+                  width: 72,
+                  height: 68,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/72x68"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 258,
+                top: 684,
+                child: Container(
+                  width: 180,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 178,
+                top: 684,
+                child: Container(
+                  width: 69,
+                  height: 70,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/69x70"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 53,
+                top: 285,
+                child: Container(
+                  width: 349,
+                  height: 188,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 349,
+                          height: 188,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/349x188"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 66,
+                        top: 69,
+                        child: SizedBox(
+                          width: 217,
+                          height: 25.46,
+                          child: Text(
+                            'Diligenciar todos los campos',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Color(0xFFFFFAFA),
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 61,
+        top: 89,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 5,
+                top: 744,
+                child: Container(
+                  width: 440,
+                  height: 56,
+                  decoration: BoxDecoration(color: Color(0xFF565656)),
+                ),
+              ),
+              Positioned(
+                left: 0,
+                top: 0,
+                child: Container(
+                  width: 440,
+                  height: 56,
+                  decoration: BoxDecoration(color: Color(0xFFD6D6D6)),
+                ),
+              ),
+              Positioned(
+                left: 48,
+                top: 156,
+                child: Container(
+                  width: 324,
+                  height: 48,
+                  decoration: ShapeDecoration(
+                    color: Color(0xFFECB764),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: -1,
+                top: 745,
+                child: Container(
+                  width: 136,
+                  height: 56,
+                  decoration: BoxDecoration(color: Color(0xFF1A1919)),
+                ),
+              ),
+              Positioned(
+                left: 43,
+                top: 86,
+                child: Container(
+                  width: 343,
+                  height: 118,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 5,
+                        top: 70,
+                        child: Container(
+                          width: 324,
+                          height: 48,
+                          decoration: ShapeDecoration(
+                            color: Color(0xFFECB764),
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(20),
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 0,
+                        top: 80,
+                        child: SizedBox(
+                          width: 335,
+                          height: 38,
+                          child: Text(
+                            'Crear EMP y/o EF',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w700,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 70,
+                        top: 8,
+                        child: SizedBox(
+                          width: 217,
+                          height: 16,
+                          child: Text(
+                            'Buscar',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 60,
+                top: 755,
+                child: Container(
+                  width: 31,
+                  height: 32,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/31x32"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 51,
+                top: 95,
+                child: Container(
+                  width: 21,
+                  height: 19,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/21x19"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 10,
+        top: 16,
+        child: Container(
+          width: 253,
+          height: 28,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              SizedBox(
+                width: 253,
+                height: 28,
+                child: Text(
+                  'Hola Alejandra Sanchez',
+                  style: TextStyle(
+                    color: Colors.black,
+                    fontSize: 20,
+                    fontFamily: 'B612',
+                    fontWeight: FontWeight.w700,
+                    height: 0,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 198,
+        top: 745,
+        child: Container(
+          width: 55,
+          height: 45,
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: NetworkImage("https://via.placeholder.com/55x45"),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ),
+      ),
+      Positioned(
+        left: 325,
+        top: 752,
+        child: Container(
+          width: 45,
+          height: 37,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Container(
+                width: 45,
+                height: 37,
+                decoration: BoxDecoration(
+                  image: DecorationImage(
+                    image: NetworkImage("https://via.placeholder.com/45x37"),
+                    fit: BoxFit.fill,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    ],
+  ),
+),
+Container(
+  width: 440,
+  height: 800,
+  child: Stack(
+    children: [
+      Positioned(
+        left: 0,
+        top: 0,
+        child: Container(
+          width: 440,
+          height: 800,
+          clipBehavior: Clip.antiAlias,
+          decoration: BoxDecoration(color: Colors.white),
+          child: Stack(
+            children: [
+              Positioned(
+                left: 20,
+                top: 688,
+                child: Container(
+                  width: 66,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/66x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 96,
+                top: 688,
+                child: Container(
+                  width: 72,
+                  height: 68,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/72x68"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 258,
+                top: 684,
+                child: Container(
+                  width: 180,
+                  height: 66,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x66"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 178,
+                top: 684,
+                child: Container(
+                  width: 69,
+                  height: 70,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/69x70"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 53,
+                top: 285,
+                child: Container(
+                  width: 349,
+                  height: 188,
+                  child: Stack(
+                    children: [
+                      Positioned(
+                        left: 0,
+                        top: 0,
+                        child: Container(
+                          width: 349,
+                          height: 188,
+                          decoration: BoxDecoration(
+                            image: DecorationImage(
+                              image: NetworkImage("https://via.placeholder.com/349x188"),
+                              fit: BoxFit.fill,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Positioned(
+                        left: 66,
+                        top: 69,
+                        child: SizedBox(
+                          width: 217,
+                          height: 25.46,
+                          child: Text(
+                            'Inicio de Sesión con Exito!',
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              color: Color(0xFFFFFAFA),
+                              fontSize: 20,
+                              fontFamily: 'B612',
+                              fontWeight: FontWeight.w400,
+                              height: 0,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+      Positioned(
+        left: 61,
+        top: 107,
+        child: SizedBox(
+          width: 318,
+          height: 80,
+          child: Text(
+            'Procesamiento de Evidencia Digital',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 32,
+              fontFamily: 'B612',
+              fontWeight: FontWeight.w700,
+              height: 0,
+            ),
+          ),
+        ),
+      ),
+    ],
+  ),
+)
